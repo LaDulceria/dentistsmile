@@ -12,7 +12,7 @@ hero:
     hero_description: Tu cafetería en A Coruña.
 
 # Contact form
-api_token: # Enter API token here
+api_token: e194aa4d3c94ae44311fc74dac7845f0
 
 # Contact info
 contact:
