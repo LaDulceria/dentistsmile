@@ -3,7 +3,7 @@ title: La Dulcería | A Coruña
 description: "Tu cafetería en A Coruña."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ladulceria.github.io" # the name of your domain
-logo_url:
+logo_url: svg/min/logo.svg
 
 # Hero
 hero: 
