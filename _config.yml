@@ -1,6 +1,6 @@
 # Site settings
 title: La Dulcería | A Coruña
-description: "A responsive Jekyll theme for dental clinics."
+description: "Tu cafetería en A Coruña."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ladulceria.github.io" # the name of your domain
 logo_url: svg/min/logo.svg
