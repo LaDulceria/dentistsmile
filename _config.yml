@@ -1,8 +1,8 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
+title: La Dulcería | A Coruña
 description: "A responsive Jekyll theme for dental clinics."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "ladulceriacoruna.github.io" # the name of your domain
+url: "ladulceria.github.io" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
@@ -33,7 +33,7 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Von schroeders 273, Viña del mar, Chile
+    address: Ronda de Nelle 110, A Coruña, España
     address_details: svg/min/logo.svg
 
 # Social settings
